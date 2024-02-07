@@ -1,1 +1,1 @@
-# portScan.sh
+Escaner de puertos de la máquina host.
